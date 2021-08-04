@@ -1,7 +1,6 @@
 module.exports = {
     title: 'ShibaInu\'s Blog',
     description: '記錄各種事情的vuepress-blog',
-    dest: './blog',
     head: [
         ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
     ],
