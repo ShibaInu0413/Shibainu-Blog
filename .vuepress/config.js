@@ -13,6 +13,10 @@ module.exports = {
     themeConfig: {
         type: 'blog',
         logo: '/icon/logo.png',
-        authorAvatar: '/icon/logo.png'
+        authorAvatar: '/icon/logo.png',
+        nav: [
+            { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' }
+        ],
+        noFoundPageByTencent: false
     }
 }
