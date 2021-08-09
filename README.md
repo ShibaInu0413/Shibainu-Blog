@@ -1,4 +1,6 @@
 ---
 home: true
-heroText: null
+bgImageStyle: {
+    height: '400px'
+}
 ---
