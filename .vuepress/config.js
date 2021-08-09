@@ -15,10 +15,17 @@ module.exports = {
         logo: '/assets/icon/logo.png',
         authorAvatar: '/assets/icon/logo.png',
         nav: [
-            { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-            { text: 'RSS', link: '/rss.xml', icon: 'reco-bokeyuan' }
+            { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' }
         ],
-        noFoundPageByTencent: false
+        noFoundPageByTencent: false,
+        friendLink: [
+            {
+                title: 'RSS',
+                desc: 'RSS link of this site.',
+                logo: '/assets/icon/rss.png',
+                link: 'https://blog.dshibainu.com/rss.xml'
+            }
+        ]
     },
     plugins: {
         "@vuepress-reco/vuepress-plugin-rss": {
