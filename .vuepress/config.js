@@ -15,8 +15,14 @@ module.exports = {
         logo: '/assets/icon/logo.png',
         authorAvatar: '/assets/icon/logo.png',
         nav: [
-            { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' }
+            { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
+            { text: 'RSS', link: '/rss.xml', icon: 'reco-bokeyuan' }
         ],
         noFoundPageByTencent: false
+    },
+    plugins: {
+        "@vuepress-reco/vuepress-plugin-rss": {
+            site_url: 'https://blog.dshibainu.com'
+        }
     }
 }
