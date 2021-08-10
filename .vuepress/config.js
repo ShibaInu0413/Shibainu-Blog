@@ -16,6 +16,7 @@ module.exports = {
     ],
     theme: 'reco',
     themeConfig: {
+        author: 'ShibaInu',
         type: 'blog',
         logo: '/assets/icon/logo.png',
         authorAvatar: '/assets/icon/logo.png',
