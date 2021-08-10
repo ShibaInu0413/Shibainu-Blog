@@ -23,7 +23,7 @@ module.exports = {
                 title: 'RSS',
                 desc: 'RSS link of this site.',
                 logo: '/assets/icon/rss.png',
-                link: 'https://blog.dshibainu.com/rss.xml'
+                link: '/rss.xml'
             }
         ]
     },
