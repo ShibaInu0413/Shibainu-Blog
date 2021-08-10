@@ -21,7 +21,7 @@ module.exports = {
         authorAvatar: '/assets/icon/logo.png',
         nav: [
             { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-            { text: 'RSS', link: 'https://blog.dshibainu.com/rss.xml', icon: 'reco-bokeyuan' }
+            { text: 'RSS', link: 'https://dshibainu.com/rss.xml', icon: 'reco-bokeyuan' }
         ],
         noFoundPageByTencent: false,
         friendLink: []
