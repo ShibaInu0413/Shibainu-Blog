@@ -12,7 +12,9 @@ module.exports = {
         ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css' }],
         ['script', { src: 'https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js' }],
 
-        ['script', { 'data-ad-client':'ca-pub-2021556311985834', async: true, src:'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' }]
+        ['script', { 'data-ad-client':'ca-pub-2021556311985834', async: true, src:'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' }],
+
+        ['meta', { name:'exoclick-site-verification', content:'64ef40cba99f8757c62421f6c34fc1b2' }]
     ],
     theme: 'reco',
     themeConfig: {
