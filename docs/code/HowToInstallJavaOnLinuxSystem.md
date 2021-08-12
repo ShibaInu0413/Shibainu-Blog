@@ -2,7 +2,6 @@
 title: 如何在linux系統安裝java
 date: 2021-08-07
 tags:
- - code
  - java
  - linux
 ---

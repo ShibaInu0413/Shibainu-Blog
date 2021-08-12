@@ -2,7 +2,6 @@
 title: 手動清除Linux記憶體快取
 date: 2021-08-07
 tags:
- - code
  - linux
 ---
 
