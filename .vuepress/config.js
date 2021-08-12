@@ -31,7 +31,7 @@ module.exports = {
     },
     plugins: {
         '@vuepress-reco/vuepress-plugin-rss': {
-            site_url: 'https://blog.dshibainu.com'
+            site_url: 'https://dshibainu.com'
         },
         'dynamic-title': {
             showText: '(ฅ>ω<*ฅ)欢迎回来！',
