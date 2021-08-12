@@ -20,4 +20,4 @@ tags:
 # 金句名言
 我只知道，假如我去愛人生，那人生一定也會回愛我。－阿魯道夫‧魯賓斯坦
 
-<iframe src="//a.exdynsrv.com/iframe.php?idzone=4385142&size=728x90" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" />
+<iframe src="//a.exdynsrv.com/iframe.php?idzone=4385142&size=900x250" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
