@@ -22,3 +22,5 @@ java16: `sudo apt install openjdk-16-jre`
 可以使用以下指令進行選取你要的版本
 
 `sudo update-alternatives --config java`
+
+<iframe src="//a.exdynsrv.com/iframe.php?idzone=4385142&size=900x250" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" />
