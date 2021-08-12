@@ -23,4 +23,4 @@ java16: `sudo apt install openjdk-16-jre`
 
 `sudo update-alternatives --config java`
 
-<iframe src="//a.exdynsrv.com/iframe.php?idzone=4385142&size=900x250" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" />
+<iframe src="//a.exdynsrv.com/iframe.php?idzone=4385142&size=728x90" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" />

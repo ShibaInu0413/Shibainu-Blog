@@ -38,4 +38,4 @@ $ sudo sh -c 'echo 3 > /proc/sys/vm/drop_caches'
 # 參考資料
 [手動清除 Linux 記憶體快取](https://medium.com/hungys-blog/clear-linux-memory-cache-manually-90bec95ea003)
 
-<iframe src="//a.exdynsrv.com/iframe.php?idzone=4385142&size=900x250" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" />
+<iframe src="//a.exdynsrv.com/iframe.php?idzone=4385142&size=728x90" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" />
