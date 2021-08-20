@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/icon/heroImage.png
+heroImage: /assets/icon/logo.png
 bgImageStyle: {
     height: '500px'
 }
