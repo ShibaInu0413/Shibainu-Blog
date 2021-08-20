@@ -10,9 +10,7 @@ module.exports = {
         ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/assets/icon/favicon-180x180.png' }],
 
         ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css' }],
-        ['script', { src: 'https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js' }],
-
-        ['script', { 'data-ad-client':'ca-pub-2021556311985834', async: true, src:'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' }]
+        ['script', { src: 'https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js' }]
     ],
     theme: 'reco',
     themeConfig: {
@@ -22,14 +20,14 @@ module.exports = {
         authorAvatar: '/assets/icon/logo.png',
         nav: [
             { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-            { text: 'RSS', link: 'https://dshibainu.com/rss.xml', icon: 'reco-rss' }
+            { text: 'RSS', link: 'https://blog.dshibainu.com/rss.xml', icon: 'reco-rss' }
         ],
         noFoundPageByTencent: false,
         friendLink: []
     },
     plugins: {
         '@vuepress-reco/vuepress-plugin-rss': {
-            site_url: 'https://dshibainu.com'
+            site_url: 'https://blog.dshibainu.com'
         },
         'dynamic-title': {
             showText: '(ฅ>ω<*ฅ)欢迎回来！',
